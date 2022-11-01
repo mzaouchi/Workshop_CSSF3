@@ -1,0 +1,92 @@
+*{
+    background-color: bisque;
+    font-family: fantasy;
+}
+nav a{
+    color: tomato;
+    font-size: 24px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+nav{
+    margin-left: 50%;
+    padding: 10px;    
+}
+
+nav a:hover{
+    color: greenyellow;
+    font-size: 30px;
+    /* text-decoration: underline; */
+}
+
+h2{
+    text-decoration: underline;
+    font-size: 36px;
+    color: cyan;
+    margin-left: 43px;
+}
+
+#home img{
+    width: 20%;
+    border: 5px solid red;
+    border-radius: 62px;
+  
+}
+
+#home{
+    text-align: center;
+}
+
+p{
+    width: 38%;
+    display: inline-block;
+    line-height: 53px;
+    text-align: justify;
+    margin-left: 111px;
+
+}
+
+table,th,td{
+    margin: auto;
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+
+table{
+    width: 60%;
+}
+
+form{
+    width: 23%;
+    margin: auto;
+}
+
+input{
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+
+#mourtadha{
+    margin-left: 11px;
+
+}
+
+button{
+    font-size: 75px;
+    border-radius: 107px;
+    color: red;
+    background-color: yellow;
+    border: 35px solid green;
+}
+
+button:hover{
+    color: sienna;
+}
+
+footer{
+    font-size: 54px;
+    text-align: center;
+    font-weight: bold;
+}
